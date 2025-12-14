@@ -3,13 +3,71 @@ layout: base.njk
 title: Gallery
 ---
 
-<h1>Gallery</h1>
+<div class="gallery-slideshow">
+  <div class="gallery-nav">
+    <button class="gallery-prev" onclick="prevSlide()">← Back</button>
+    <span class="gallery-counter"></span>
+    <button class="gallery-next" onclick="nextSlide()">Next →</button>
+  </div>
 
-<div class="gallery-grid">
-  <!-- Add your images here. Place image files in src/gallery/images/ -->
-  <!-- <img src="/gallery/images/photo1.jpg" alt="Description"> -->
-  <!-- <img src="/gallery/images/photo2.jpg" alt="Description"> -->
-  In progress.
-  <!-- <img src="/gallery/images/thaiboy.jpeg" alt="Thong Lor Soldier"> -->
+  <div class="gallery-slides">
+    <div class="gallery-slide active">
+      <img src="/gallery/images/crossRoom.JPG" alt="home">
+      <p class="gallery-caption">I must live a certain way.</p>
+    </div>
+
+    <div class="gallery-slide">
+      <img src="/gallery/images/buddhaCat.JPG" alt="meow">
+      <p class="gallery-caption">Desire is the root of suffering. Suffering is the root of greatness.</p>
+    </div>
+
+    <div class="gallery-slide">
+      <img src="/gallery/images/neymar.jpg" alt="neymar">
+      <p class="gallery-caption">You will never be lovelier than you are now. We will never be here again.</p>
+    </div>
+
+    <div class="gallery-slide">
+      <img src="/gallery/images/thaiboy.jpeg" alt="Thong Lor">
+      <p class="gallery-caption">Thong Lor Soldier</p>
+    </div>
+
+    <div class="gallery-slide">
+      <img src="/gallery/images/nyDecember.JPG" alt="nyc">
+      <p class="gallery-caption">New York in December</p>
+    </div>
+
+    <div class="gallery-slide">
+      <img src="/gallery/images/middleSchool.JPG" alt="Grover">
+      <p class="gallery-caption">I used to be a cute kid.</p>
+    </div>
+  </div>
 </div>
 
+<script>
+  const slides = document.querySelectorAll('.gallery-slide');
+  const counter = document.querySelector('.gallery-counter');
+  let current = 0;
+
+  function showSlide(index) {
+    slides.forEach(s => s.classList.remove('active'));
+    current = (index + slides.length) % slides.length;
+    slides[current].classList.add('active');
+    counter.textContent = `${current + 1} of ${slides.length}`;
+  }
+
+  function nextSlide() {
+    showSlide(current + 1);
+  }
+
+  function prevSlide() {
+    showSlide(current - 1);
+  }
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowRight') nextSlide();
+    if (e.key === 'ArrowLeft') prevSlide();
+  });
+
+  // Initialize counter on page load
+  showSlide(0);
+</script>
