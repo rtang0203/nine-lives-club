@@ -40,7 +40,7 @@ body {
 
 /* Navigation */
 header {
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
 }
 
 nav {
@@ -77,6 +77,11 @@ nav {
 /* Main content */
 main {
   flex: 1;
+}
+
+main img {
+  max-width: 100%;
+  height: auto;
 }
 
 /* Typography */
