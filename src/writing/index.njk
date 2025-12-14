@@ -1,0 +1,17 @@
+---
+layout: base.njk
+title: Writing
+---
+
+<h1>Writing</h1>
+
+<ul class="item-list">
+{%- for post in collections.writing %}
+  <li>
+    <a href="{{ post.url }}">
+      <span class="item-title">{{ post.data.title }}</span>
+      <span class="item-meta">{{ post.data.date | date("month") }}</span>
+    </a>
+  </li>
+{%- endfor %}
+</ul>
