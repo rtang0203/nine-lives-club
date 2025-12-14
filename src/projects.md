@@ -17,5 +17,10 @@ title: Projects
       <span class="item-meta">2025</span>
       <p class="item-description">Track funding rates for tokens across different exchanges for long/short opportunities.</p>
     </a>
+    <a href="http://randytang.com/">
+      <span class="item-title">Gallery</span>
+      <span class="item-meta">2023</span>
+      <p class="item-description">A silly little gallery. Not very optimized-- may be slow.</p>
+    </a>
   </li>
 </ul>

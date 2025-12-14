@@ -2,8 +2,6 @@
 layout: base.njk
 ---
 
-# Leave It All Behind
+[Projects](/projects/), [writing](/writing/), and things that [inspire](/inspiration/) me.
 
 ![Scarface](/gallery/images/scarface.GIF)
-
-[Projects](/projects/), [writing](/writing/), and things that [inspire](/inspiration/) me.
