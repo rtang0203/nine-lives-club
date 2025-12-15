@@ -10,6 +10,17 @@ Books, movies, articles, and other things.
 <div class="inspiration-grid">
 
   <div class="inspiration-item">
+    <a href="https://letterboxd.com/film/heat-1995/">
+      <img src="/gallery/images/heat.jpg" alt="Heat">
+    </a>
+    <div class="inspiration-info">
+      <a href="https://letterboxd.com/film/heat-1995/" class="inspiration-title">Heat</a>
+      <span class="inspiration-author">— Michael Mann</span>
+      <p class="inspiration-description">Legendary movie. Perfect cinema. My favorite film of all time. Is it delusional to say I feel a deep kinship with De Niro? And yet somehow I might like Val Kilmer's character even more. If you are a man in your 20s you must absolutely must watch this. <br><br>"Don't let yourself get attached to anything you are not willing to walk out on in 30 seconds flat if you feel the heat around the corner." </p>
+    </div>
+  </div>
+
+  <div class="inspiration-item">
     <a href="https://www.criterion.com/films/27666-cure">
       <img src="/gallery/images/Cure.jpg" alt="Cure">
     </a>
