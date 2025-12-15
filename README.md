@@ -1,4 +1,4 @@
-# Personal Site
+# Nine Lives Club
 
 A minimal personal website built with [Eleventy](https://www.11ty.dev/).
 
@@ -28,16 +28,16 @@ Outputs static files to `_site/` for deployment.
 
 ### New project
 
-Create a new `.md` file in `src/projects/`:
+Edit `src/projects.md` and add a new list item:
 
-```markdown
----
-title: Project Name
-date: 2024-03-15
-description: Brief description shown in the list.
----
-
-Your project content here...
+```html
+<li>
+  <a href="https://your-project-url.com">
+    <span class="item-title">Project Name</span>
+    <span class="item-meta">2025</span>
+    <p class="item-description">Brief description of the project.</p>
+  </a>
+</li>
 ```
 
 ### New writing post
@@ -55,20 +55,37 @@ Your post content here...
 
 ### Gallery images
 
-1. Add images to `src/gallery/images/`
-2. Reference them in `src/gallery/index.njk`:
+Edit `src/gallery/index.njk` and add a new slide:
 
 ```html
-<img src="/gallery/images/yourimage.jpg" alt="Description">
+<div class="gallery-slide">
+  <img src="/gallery/images/yourimage.jpg" alt="Description">
+  <p class="gallery-caption">Your caption here.</p>
+</div>
 ```
+
+The slideshow counter updates automatically.
 
 ### Inspiration
 
-Edit `src/inspiration.md` directly to add books, articles, and links.
+Edit `src/inspiration.md` and add a new item:
+
+```html
+<div class="inspiration-item">
+  <a href="https://link-to-item.com">
+    <img src="/gallery/images/image.jpg" alt="Title">
+  </a>
+  <div class="inspiration-info">
+    <a href="https://link-to-item.com" class="inspiration-title">Title</a>
+    <span class="inspiration-author">— Author</span>
+    <p class="inspiration-description">Your description here.</p>
+  </div>
+</div>
+```
 
 ## Customization
 
-- **Site title**: Edit `src/_includes/base.njk` (replace "Your Name")
+- **Site title**: Edit `src/_includes/base.njk`
 - **Styles**: Edit `src/css/style.css`
 - **Homepage**: Edit `src/index.md`
 - **About**: Edit `src/about.md`
@@ -90,18 +107,15 @@ src/
 │   └── base.njk        # Main layout template
 ├── css/
 │   └── style.css       # Styles
-├── projects/
-│   ├── projects.json   # Default frontmatter for projects
-│   ├── index.njk       # Projects list page
-│   └── *.md            # Individual projects
 ├── writing/
 │   ├── writing.json    # Default frontmatter for posts
 │   ├── index.njk       # Writing list page
 │   └── *.md            # Individual posts
 ├── gallery/
-│   ├── index.njk       # Gallery page
+│   ├── index.njk       # Gallery slideshow page
 │   └── images/         # Image files
 ├── index.md            # Homepage
+├── projects.md         # Projects page (direct links)
 ├── about.md            # About page
-└── inspiration.md      # Inspiration page
+└── inspiration.md      # Inspiration page (cards with images)
 ```

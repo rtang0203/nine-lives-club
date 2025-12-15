@@ -5,7 +5,7 @@ title: About
 
 # About
 
-I write backend python, I speculate on digital assets, I consume media and call myself a connosieur. 
+I write code and speculate on digital assets. On the road to Damascus.
 
 ## Contact
 
