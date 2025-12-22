@@ -13,6 +13,7 @@ description: Index funds as the death of human agency. Through the Index, the pa
 
 > Index funds as the death of human agency. The S&P 500 as the Human Instrumentality Project. Through the Index, the past eats the future.
 
+
 ![inigo snippet](/gallery/images/inigo_snippet.png)
 
 When I was a young kid, my father sat me down and taught me about investing. My first lesson was on the S&P 500 Index (Peace Be Upon It.) We got on the desktop computer and he pulled up this website with a compound interest calculator and he told me look, if you just put $1000 into the Index every month, it compounds at 8% annually and you’ll be a millionaire in 25 years! Isn’t that amazing? 
@@ -30,6 +31,7 @@ Being a shareholder of a US megacorporation is the best position in the world. T
 No coercion involved. They beg you to let them work for you. Tripping over themselves hand and feet to do it. They put themselves through rigorous education, standardized tests, grueling interviews, just for a chance at service. The Pharaohs built the pyramids through slave labor. We build greater monuments every day through “At-Will Employment.” 
 
 There is no more war, no more famine, no more pestilence. The horsemen of the Apocalypse stood in the way of sacred fiduciary duty, so we eliminated them. Soon we will have slain Death as well. The system is perfect, self-correcting, beyond possibility of intelligent design. 
+
 And through the instrument known as the Index, you can buy exposure to this system for the low price of a 0.09% fee. You can just park your money and then sit back and let the sum total of human talent work for you. No effort or thinking required. Why wouldn’t you do this? Are you stupid?
 
 ## The Bear Case (Logical):
