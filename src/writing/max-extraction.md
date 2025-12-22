@@ -1,6 +1,7 @@
 ---
 title: Max Extraction
 date: 2025-12-01
+description: Hyperfinancialization, value extraction, and the degeneration of everything.
 ---
 
 <div class="post-header">

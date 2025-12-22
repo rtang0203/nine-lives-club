@@ -1,6 +1,7 @@
 ---
 title: Passive Indexing, Capital Gravity, and Implosion
 date: 2025-12-21
+description: Index funds as the death of human agency. Through the Index, the past eats the future.
 ---
 
 <div class="post-header">
