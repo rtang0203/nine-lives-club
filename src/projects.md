@@ -7,6 +7,11 @@ title: Projects
 
 <ul class="item-list">
   <li>
+    <a href="/writing/polymarket-calibration/">
+      <span class="item-title">Polymarket Calibration Analysis</span>
+      <span class="item-meta">2025</span>
+      <p class="item-description">Are prediction market prices well calibrated? Analysis of 5M trades from 20K markets.</p>
+    </a>
     <a href="https://holygrace.vercel.app/">
       <span class="item-title">Bible Reading Tracker</span>
       <span class="item-meta">2025</span>
