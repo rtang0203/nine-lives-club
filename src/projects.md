@@ -7,6 +7,11 @@ title: Projects
 
 <ul class="item-list">
   <li>
+    <a href="https://discord.gg/ypUyz94FW3">
+      <span class="item-title">Polymarket Whale Scanner</span>
+      <span class="item-meta">2026</span>
+      <p class="item-description">Scans Polymarket for large trades and potential insider activity. Join the discord server in the link for alerts.</p>
+    </a>
     <a href="/writing/polymarket-calibration/">
       <span class="item-title">Polymarket Calibration Analysis</span>
       <span class="item-meta">2025</span>
