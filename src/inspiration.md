@@ -33,7 +33,7 @@ Books, movies, articles, and other things.
 
   <div class="inspiration-item">
     <a href="https://www.amazon.com/America-Jean-Baudrillard/dp/184467682X">
-      <img src="/gallery/images/America.jpg" alt="America">
+      <img src="/gallery/images/america.jpg" alt="America">
     </a>
     <div class="inspiration-info">
       <a href="https://www.amazon.com/America-Jean-Baudrillard/dp/184467682X" class="inspiration-title">America</a>
