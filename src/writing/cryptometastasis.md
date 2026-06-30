@@ -11,7 +11,7 @@ description: Crypto is dead. Long live crypto.
 
 <div class="post-content">
 
-> Crypto as the casino is dead, the speculative premium is gone. But death was always priced in. The chaff blows away with the wind, and what remains is the foundational primitive of the world that's coming. Retar Dio.
+> Crypto as the casino is dead, the speculative premium is gone. The chaff blows away with the wind, and what remains is the foundational primitive of the world that's coming.
 
 ## Altseason
 
