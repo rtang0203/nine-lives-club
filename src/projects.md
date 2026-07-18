@@ -7,6 +7,16 @@ title: Projects
 
 <ul class="item-list">
   <li>
+    <a href="https://evilfriends.net/">
+      <span class="item-title">Mortr</span>
+      <span class="item-meta">2026</span>
+      <p class="item-description">Proof-of-Condition verification using image models for secondhand clothes. For sellers on Grailed/Depop/etc.</p>
+    </a>
+    <a href="https://benchmark-dashboard-demo.vercel.app/">
+      <span class="item-title">Benchmark Dashboard</span>
+      <span class="item-meta">2026</span>
+      <p class="item-description">Building dashboard product for medspa consulting agency. In addition to raw practice data, scrapes competitor pricing data from Google Places and provides recommendations.</p>
+    </a>
     <a href="https://discord.gg/ypUyz94FW3">
       <span class="item-title">Polymarket Whale Scanner</span>
       <span class="item-meta">2026</span>
@@ -30,7 +40,7 @@ title: Projects
     <a href="http://eightfoldpath.xyz/">
       <span class="item-title">Gallery</span>
       <span class="item-meta">2023</span>
-      <p class="item-description">A silly little gallery. Not very optimized-- may load slowly.</p>
+      <p class="item-description">A silly little gallery.</p>
     </a>
   </li>
 </ul>

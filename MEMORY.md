@@ -1,0 +1,1 @@
+- 2026-07-17: Added Benchmark Dashboard and Mortr to `src/projects.md`, linking to their supplied live demos.
