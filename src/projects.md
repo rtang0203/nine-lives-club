@@ -8,7 +8,7 @@ description: Software projects and experiments from Nine Lives Club.
 
 <ul class="item-list">
   <li>
-    <a href="https://options.eightfoldpath.xyz//">
+    <a href="https://options.eightfoldpath.xyz/">
       <span class="item-title">Options Screener</span>
       <span class="item-meta">2026</span>
       <p class="item-description">Compare returns on long calls vs shares across CBOE options data. Looking for cheap convexity and low theta.</p>
@@ -38,7 +38,7 @@ description: Software projects and experiments from Nine Lives Club.
       <span class="item-meta">2025</span>
       <p class="item-description">Make groups and read the bible together.</p>
     </a>
-    <a href="https://https://funding.eightfoldpath.xyz//">
+    <a href="https://funding.eightfoldpath.xyz/">
       <span class="item-title">Funding Rates Tracker</span>
       <span class="item-meta">2025</span>
       <p class="item-description">Track funding rates for tokens across different decentralized exchanges for long/short opportunities.</p>
