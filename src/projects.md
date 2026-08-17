@@ -1,12 +1,18 @@
 ---
 layout: base.njk
 title: Projects
+description: Software projects and experiments from Nine Lives Club.
 ---
 
 # Projects
 
 <ul class="item-list">
   <li>
+    <a href="https://https://options.eightfoldpath.xyz//">
+      <span class="item-title">Options Screener</span>
+      <span class="item-meta">2026</span>
+      <p class="item-description">Compare returns on long calls vs shares across CBOE options data. Looking for cheap convexity and low theta.</p>
+    </a>
     <a href="https://evilfriends.net/">
       <span class="item-title">Mortr</span>
       <span class="item-meta">2026</span>
@@ -15,7 +21,7 @@ title: Projects
     <a href="https://benchmark-dashboard-demo.vercel.app/">
       <span class="item-title">Benchmark Dashboard</span>
       <span class="item-meta">2026</span>
-      <p class="item-description">Building dashboard product for medspa consulting agency. In addition to raw practice data, scrapes competitor pricing data from Google Places and provides recommendations.</p>
+      <p class="item-description">Dashboard product for medspa consulting agency. In addition to raw practice data, scrapes competitor pricing data from Google Places and provides recommendations.</p>
     </a>
     <a href="https://discord.gg/ypUyz94FW3">
       <span class="item-title">Polymarket Whale Scanner</span>
@@ -32,12 +38,12 @@ title: Projects
       <span class="item-meta">2025</span>
       <p class="item-description">Make groups and read the bible together.</p>
     </a>
-    <a href="http://138.197.119.94:8080/">
+    <a href="https://https://funding.eightfoldpath.xyz//">
       <span class="item-title">Funding Rates Tracker</span>
       <span class="item-meta">2025</span>
-      <p class="item-description">Track funding rates for tokens across different exchanges for long/short opportunities.</p>
+      <p class="item-description">Track funding rates for tokens across different decentralized exchanges for long/short opportunities.</p>
     </a>
-    <a href="http://eightfoldpath.xyz/">
+    <a href="https://seventhheaven.netlify.app/">
       <span class="item-title">Gallery</span>
       <span class="item-meta">2023</span>
       <p class="item-description">A silly little gallery.</p>

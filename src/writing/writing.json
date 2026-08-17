@@ -1,4 +1,5 @@
 {
   "layout": "base.njk",
-  "tags": "writing"
+  "tags": "writing",
+  "pageType": "article"
 }

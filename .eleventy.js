@@ -12,6 +12,8 @@ module.exports = function(eleventyConfig) {
     if (format === "month") return d.toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
     return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
   });
+  // Machine-readable dates for metadata and sitemaps
+  eleventyConfig.addFilter("isoDate", (date) => new Date(date).toISOString());
 
   // Collection: writing (sorted by date, newest first)
   eleventyConfig.addCollection("writing", (collection) => {

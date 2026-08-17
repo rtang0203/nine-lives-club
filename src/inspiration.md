@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Inspiration
+description: Films, books, and other inspirations collected by Nine Lives Club.
 ---
 
 # Inspiration

@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: About
+description: About Nine Lives Club, a personal site for code, digital assets, and writing.
 ---
 
 # About
