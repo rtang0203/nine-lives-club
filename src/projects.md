@@ -8,7 +8,7 @@ description: Software projects and experiments from Nine Lives Club.
 
 <ul class="item-list">
   <li>
-    <a href="https://https://options.eightfoldpath.xyz//">
+    <a href="https://options.eightfoldpath.xyz//">
       <span class="item-title">Options Screener</span>
       <span class="item-meta">2026</span>
       <p class="item-description">Compare returns on long calls vs shares across CBOE options data. Looking for cheap convexity and low theta.</p>
