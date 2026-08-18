@@ -39,7 +39,7 @@ Books, movies, articles, and other things.
     <div class="inspiration-info">
       <a href="https://www.youtube.com/watch?v=sEZ0YTi3VvI" class="inspiration-title">Russell Westbrook</a>
       <span class="inspiration-author"></span>
-      <p class="inspiration-description">My favorite athlete of all time now and forever. Power, energy, sheer force of will. 1 of 1. Real in every sense of the word. Antithesis of fake. Pure Ego and Self Actualization. 18 years in the NBA and he never once betrayed who he was; stayed true to himself for better or for worse. Live and die by the sword. The Last Samurai. Only man who could ever guard Russell Westbrook was himself. </p>
+      <p class="inspiration-description">My favorite athlete of all time now and forever. Power, energy, sheer force of will. 1 of 1. Real in every sense of the word. Antithesis of fake. Pure Ego and Self Actualization. 18 years in the NBA and he never once betrayed who he was; stayed true to himself for better or for worse. Live and die by the sword. The Last Samurai. Only man who could ever guard Russell Westbrook was himself. <br><br> "He lead by example and once the lights were bright, he let everything out and experienced pure freedom. It was inspiring as his teammate and everywhere I went, I seen it inspire people from all walks of life, crazy thing is, he didn’t say much, he just showed up. For 18 years. This basketball life is sacred to us as professionals, what we put into that court means everything. Some of us wish we could go back and do things with a little more intent and some can just wipe their hands and be satisfied with the time spent. Who u gonna be? We know what zero was on…keep inspiring in the next phase of life champ."</p>
     </div>
   </div>
 

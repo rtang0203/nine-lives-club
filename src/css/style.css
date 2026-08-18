@@ -210,7 +210,7 @@ a {
 .inspiration-item {
   display: flex;
   gap: 1.5rem;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .inspiration-item img {
@@ -253,6 +253,11 @@ a {
 @media (max-width: 480px) {
   .inspiration-item {
     flex-direction: column;
+    align-items: stretch;
+  }
+
+  .inspiration-item > a {
+    align-self: center;
   }
 
   .inspiration-item img {

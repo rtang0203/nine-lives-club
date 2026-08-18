@@ -1,2 +1,3 @@
 - 2026-07-17: Added Benchmark Dashboard and Mortr to `src/projects.md`, linking to their supplied live demos.
 - 2026-08-17: Added sitemap, robots directives, canonical/social/structured metadata, page descriptions, and image sizing to improve crawlability without changing visible content.
+- 2026-08-17: Vertically centered inspiration images beside desktop text blocks and centered them above full-width text on mobile.
