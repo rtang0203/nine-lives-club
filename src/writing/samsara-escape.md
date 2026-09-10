@@ -35,9 +35,9 @@ Cause fuck it, I got tech money, crypto money saved up. I got no kids or depende
 
 But what if shit goes right? What if I do make it through selection? What if I become who I was always meant to be? Something more than what I am now, something greater than this half-life I’m floating through like a ghost. If I do make the cut then I’ll disappear off the face of the planet for 7 years and come back one of the most competent and dangerous motherfuckers on the planet. If I make it back alive there’ll probably be less than two hundred people on Earth with a resume like I’ll have. The world will be my oyster.
 
-I’ve always been a betting man. I’m Mr. Take-That-Risk. This is the aura gamble of a lifetime and I’m about to seize that shit by the balls. Cause I can’t speak for anyone else, but for me personally? I think my odds are pretty decent. 
+I’ve always been a betting man. Mr. Take-That-Risk. This is the aura gamble of a lifetime, and I’m going to seize that shit by the balls. Cause I can’t speak for anyone else, but for me personally? I think my odds are pretty decent. 
 
-So I’m leaving it all behind. The money, the friends, the girls, the fun, all of it. I have tasted every fruit of Babylon and found them all bitter. There is nothing left for me here. 
+So I’m leaving it all behind. The money, the girls, the fun, all of it. I have tasted every fruit of Babylon and found them all bitter. There is nothing left for me here. 
 
 I asked God to show me my path and he did. The path is narrow and winding. But to whom much is given much is tested. 
 
