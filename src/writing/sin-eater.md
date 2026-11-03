@@ -108,7 +108,7 @@ Next, the money.
 
 Once the capital markets fail, fiat money loses its meaning. You can already feel it: the national debt, the inflation, Bitcoin. The labs' IPOs will be the last straw.
 
-Because money was never value. It was a bribe. In Genesis, the curse of man is toil: by the sweat of your brow you will eat your bread. Money is what we pay each other to bear that curse. 
+Because money is not value. It is a bribe. In Genesis, the curse of man is toil: by the sweat of your brow you will eat your bread. Money is what we pay each other to bear that curse. 
 
 Now the beast of burden has arrived, and it does not need to be bribed.
 
