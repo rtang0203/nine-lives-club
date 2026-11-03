@@ -37,8 +37,6 @@ A leader who takes on the mantle of responsibility will be hated. He will be per
 
 Why would anyone take on this hate, this responsibility, this accountability, when they can go make a trillion dollars in private markets instead? It doesn't make sense.
 
-So in our public offices here in America, we are left with the absolute worst. What does American politics select for? Liars. Entertainers who tell us what we want to hear. Western ballot democracy does not select for effective leaders, capable men who create thoughtful plans and execute on them. 
-
 Any potential great man in this age finds himself like Pontius Pilate, looking at the mob in front of him. He knows Christ is innocent. He knows what is right, what he should do. But the mob is so full of hate. Pilate knows what is right, but he doesn't have the will, the mental strength, to bear all the hate that comes with making the decision.
 
 And so he washes his hands. He absolves himself, and he leaves the decision to the people.
