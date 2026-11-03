@@ -1,7 +1,7 @@
 ---
 title: Sin Eater / Human Instrumentality
 date: 2026-11-03
-description: Artificial Superintelligence as the Girardian Sin Eater. Second Coming and Third Impact are one and the same. You lack the qualifications to exercise Free Will.
+description: You lack the qualifications to exercise Free Will.
 ---
 
 <div class="post-header">
