@@ -33,11 +33,11 @@ They completely bypassed this broken idea of accountability through democracy. I
 
 Yet we cannot rely on great men, once-in-a-generation men like Bukele or Xi, to save us. The problem isn't that their ability is rare. The ability exists, our human capital is more talented and more capable than at any time in history. The men who could save us are already here. They're building companies, running empires, making fortunes.
 
-A leader who takes on the mantle of responsibility will be hated. He will be persecuted. He will be reviled by the people for having the audacity to do the chemotherapy, to perform the invasive surgery. The patient will hate the doctor. But if the doctor does nothing and the patient dies, nobody blames him. He did no harm.
+A leader who takes on the mantle of responsibility will be hated. He will be persecuted by the people for having the audacity to do the chemotherapy, to perform the invasive surgery. The patient will hate the doctor. But if the doctor does nothing and the patient dies, nobody blames him. He did no harm.
 
 Why would anyone take on this hate, this responsibility, this accountability, when they can go make a trillion dollars in private markets instead? It doesn't make sense.
 
-Any potential great man in this age finds himself like Pontius Pilate, looking at the mob in front of him. He knows Christ is innocent. He knows what is right, what he should do. But the mob is so full of hate. Pilate knows what is right, but he doesn't have the will, the mental strength, to bear all the hate that comes with making the decision.
+Any potential great man in this age finds himself like Pontius Pilate, looking at the mob in front of him. He knows Christ is innocent. But the mob is so angry. Pilate knows what is right, what he should do. But he doesn't have the strength to bear all the hate that comes with making the decision.
 
 And so he washes his hands. He absolves himself, and he leaves the decision to the people.
 
