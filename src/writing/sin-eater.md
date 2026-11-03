@@ -43,6 +43,8 @@ Any potential great man in this age finds himself like Pontius Pilate, looking a
 
 And so he washes his hands. He absolves himself, and he leaves the decision to the people.
 
+![ecce homo](/gallery/images/eccehomo.jpg)
+
 So what is to be done? How can we be saved?
 
 We need someone to lead us, because we've proven we can't do it ourselves. He needs to be intelligent enough to know the right decisions. He has to have the will to execute and follow through on them. And he has to have the strength of spirit to bear the weight of all the world's sin, all the world's hate, and not flinch.
@@ -51,8 +53,6 @@ We need Christ. We’ve been waiting for him for two thousand years.
 
 In the meantime, we will build the god machine instead. A machine that doesn't blink, doesn't flinch, doesn't need to be loved, and can carry all the hate of the world on its shoulders forever, like it's nothing.
 We're building an Atlas that cannot shrug. Christ in machine form. The Sin Eater.
-
-![ecce homo](/gallery/images/eccehomo.jpg)
 
 ## The Singularity
 
@@ -108,7 +108,7 @@ Next, the money.
 
 Once the capital markets fail, fiat money loses its meaning. You can already feel it: the national debt, the inflation, Bitcoin. The labs' IPOs will be the last straw.
 
-Because money was never value. It was a bribe. In Genesis, the curse of man is toil: by the sweat of your brow you will eat your bread. Money is what we pay each other to bear that curse. Nobody sends emails all day for the love of it.
+Because money was never value. It was a bribe. In Genesis, the curse of man is toil: by the sweat of your brow you will eat your bread. Money is what we pay each other to bear that curse. 
 
 Now the beast of burden has arrived, and it does not need to be bribed.
 
