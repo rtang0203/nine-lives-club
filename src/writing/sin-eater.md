@@ -1,5 +1,5 @@
 ---
-title: Sin Eater
+title: Sin Eater / Human Instrumentality
 date: 2026-11-03
 description: You lack the qualifications to exercise Free Will.
 ---
@@ -13,7 +13,7 @@ description: You lack the qualifications to exercise Free Will.
 
 ![ibm1979](/gallery/images/ibm1979_flipped.jpeg)
 
-> Artificial Superintelligence as the Girardian Sin Eater. Human Instrumentality. The Second Coming and Third Impact are one and the same. You lack the qualifications to exercise Free Will.
+> Artificial Superintelligence as the Girardian Sin Eater. Second Coming and Third Impact are one and the same. You lack the qualifications to exercise Free Will.
 
 ## Sons of the Patriots
 
