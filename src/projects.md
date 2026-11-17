@@ -8,6 +8,16 @@ description: Software projects and experiments from Nine Lives Club.
 
 <ul class="item-list">
   <li>
+    <a href="https://frontdesk-trainer.vercel.app/">
+      <span class="item-title">Medspa Front Desk Trainer</span>
+      <span class="item-meta">2026</span>
+      <p class="item-description">Practice different scenarios you might encounter as a medspa receptionist with an AI voice agent customer. Receive a score and detailed feedback based on your performance.</p>
+    </a>
+    <a href="https://tempo.eightfoldpath.xyz/">
+      <span class="item-title">Spotify BPM Atlas</span>
+      <span class="item-meta">2026</span>
+      <p class="item-description">Connect your Spotify, upload playlists, analyze tracks and sort them by BPM and energy. Export similar BPM groups as playlists.</p>
+    </a>
     <a href="https://options.eightfoldpath.xyz/">
       <span class="item-title">Options Screener</span>
       <span class="item-meta">2026</span>
